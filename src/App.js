@@ -5,10 +5,12 @@ import Routes from './routes';
 
 import GlobalStyle from './styles/global';
 
+import Header from './components/Header/index';
+
 function App() {
   return (
     <BrowserRouter>
-      {/* <Header /> */}
+      <Header />
       <Routes />
       <GlobalStyle />
     </BrowserRouter>
