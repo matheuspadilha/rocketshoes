@@ -1,4 +1,4 @@
-![](src/assets/images/logo.svg)
+![](src/assets/images/logo.png)
 ### Projeto construido no decorrer do bootcamp da [Rocketseat](https://rocketseat.com.br/)
 
 Este projeto engloba todo desenvolvimento com <b>ReactJS</b> e a arquitetura <b>Redux</b> com um fluxo passando por reducer e sagas.
