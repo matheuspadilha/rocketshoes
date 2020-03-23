@@ -1,3 +1,9 @@
+/**
+ * @file: routes.js
+ * @author: Matheus Padilha
+ * @copyright (c) - 3/2020
+ *
+ */
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 

@@ -1,3 +1,9 @@
+/**
+ * @file: styles.js
+ * @author: Matheus Padilha
+ * @copyright (c) - 3/2020
+ *
+ */
 import styled from 'styled-components';
 import { darken } from 'polished';
 
@@ -25,7 +31,24 @@ export const Container = styled.div`
       &:hover {
         background: ${darken(0.03, '#7159c1')};
       }
+
+      &[disabled] {
+        cursor: not-allowed;
+        opacity: 0.6;
+      }
     }
+  }
+`;
+
+export const Content = styled.div`
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  svg {
+    border: 1px solid #7159c1;
+    border-radius: 4px;
+    margin-right: 10px;
   }
 `;
 
