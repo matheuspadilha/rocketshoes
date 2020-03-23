@@ -1,3 +1,9 @@
+/**
+ * @file: styles.js
+ * @author: Matheus Padilha
+ * @copyright (c) - 3/2020
+ *
+ */
 import styled from 'styled-components';
 import { Link } from 'react-router-dom';
 

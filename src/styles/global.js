@@ -1,5 +1,12 @@
+/**
+ * @file: global.js
+ * @author: Matheus Padilha
+ * @copyright (c) - 3/2020
+ *
+ */
 import { createGlobalStyle } from 'styled-components';
 
+import 'react-toastify/dist/ReactToastify.css';
 import background from '../assets/images/background.svg';
 
 export default createGlobalStyle`

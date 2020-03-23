@@ -1,3 +1,9 @@
+/**
+ * @file: index.js
+ * @author: Matheus Padilha
+ * @copyright (c) - 3/2020
+ *
+ */
 import React from 'react';
 import ReactDOM from 'react-dom';
 

@@ -1,3 +1,9 @@
+/**
+ * @file: index.js
+ * @author: Matheus Padilha
+ * @copyright (c) - 3/2020
+ *
+ */
 import React, { Component } from 'react';
 import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';

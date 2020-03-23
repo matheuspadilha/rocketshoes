@@ -1,3 +1,9 @@
+/**
+ * @file: index.js
+ * @author: Matheus Padilha
+ * @copyright (c) - 3/2020
+ *
+ */
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { connect } from 'react-redux';
